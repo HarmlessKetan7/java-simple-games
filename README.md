@@ -10,6 +10,7 @@ A collection of fun and simple console-based games built using Java.
 |------|-------------|
 | 🧠 Quiz Game | Answer multiple choice questions and test your knowledge |
 | ✂️ Rock Paper Scissors | Play the classic hand game against the computer |
+| # Number Guess game | Guess numbres randomly |
 
 ---
 
@@ -50,6 +51,10 @@ java Quizgame
 - Computer picks randomly
 - Win/Lose/Draw result shown
 
+- #### (#) Guess game
+- guess numbers untill mathces correct one
+- win / lose result
+
 ---
 
 ## 📁 Project Structure
@@ -57,6 +62,7 @@ java Quizgame
 📦 Java-Mini-Games
  ┣ 📄 Quizgame.java
  ┣ 📄 RockPaperScissors.java
+ ┣ 📄 NOGuessGame.java
  ┗ 📄 README.md
 ```
 
